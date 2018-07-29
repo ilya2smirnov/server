@@ -1,1 +1,1 @@
-# Usage: ./server <port>
+# Usage: ./server [port]
